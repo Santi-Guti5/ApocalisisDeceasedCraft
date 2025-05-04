@@ -1,0 +1,33 @@
+[01:47:14.727][INFO]: CoT: Successfully identified and loaded ContentTweaker plugin contenttweaker:vanilla
+[01:47:14.729][INFO]: CoT: Successfully identified and loaded ContentTweaker plugin contenttweaker:forge
+[01:47:14.835][INFO]: Successfully identified and loaded plugin contenttweaker:core
+[01:47:14.838][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[01:47:14.861][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[01:47:14.952][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[01:47:14.972][INFO]: Successfully identified and loaded plugin immersiveengineering:ct_module
+[01:47:16.072][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[01:47:16.074][INFO]: - 'contenttweaker' at version '1.0.0+13'
+[01:47:16.074][INFO]: - 'crafttweaker' at version '9.1.211'
+[01:47:16.074][INFO]: - 'createtweaker' at version '2.0.0.20'
+[01:47:16.074][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[01:47:16.074][INFO]: - 'immersiveengineering' at version '1.18.2-8.4.0-161'
+[01:47:16.075][INFO]: - 'immersivepetroleum' at version '4.2.0-25'
+[01:47:16.075][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[01:47:17.007][INFO]: Started loading scripts for loader 'contenttweaker'
+[01:47:17.648][INFO]: Compiling and executing scripts
+[01:47:17.809][INFO]: Successfully initialized modules [crafttweaker, contenttweaker, expansions]
+[01:47:18.015][INFO]: Execution for loader 'contenttweaker' completed successfully
+[01:47:31.232][INFO]: Started loading scripts for loader 'initialize'
+[01:47:31.303][INFO]: Compiling and executing scripts
+[01:47:31.308][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[01:47:31.357][INFO]: Execution for loader 'initialize' completed successfully
+[01:47:40.051][WARN]: Two subcommands with the same ID soundevents found for dump: this it not a critical error
+[01:47:40.052][WARN]: Two subcommands with the same ID materials found for dump: this it not a critical error
+[01:47:43.159][INFO]: Started loading scripts for loader 'tags'
+[01:47:43.204][INFO]: Compiling and executing scripts
+[01:47:43.213][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[01:47:43.229][INFO]: Execution for loader 'tags' completed successfully
+[01:47:59.763][INFO]: Started loading scripts for loader 'crafttweaker'
+[01:47:59.794][INFO]: Compiling and executing scripts
+[01:48:00.232][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[01:48:00.244][INFO]: Execution for loader 'crafttweaker' completed successfully
