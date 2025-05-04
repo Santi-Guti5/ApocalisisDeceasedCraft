@@ -150,6 +150,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "old_growth_woodland": "2025-05-04 03:00:11 +0000",
+      "mediterranean_forest": "2025-05-04 02:59:49 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2025-05-04 02:30:23 +0000"
@@ -158,7 +165,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:windswept_savanna": "2025-05-04 02:30:23 +0000"
+      "minecraft:sunflower_plains": "2025-05-04 02:57:11 +0000",
+      "minecraft:swamp": "2025-05-04 02:58:11 +0000",
+      "minecraft:windswept_savanna": "2025-05-04 02:30:23 +0000",
+      "minecraft:savanna": "2025-05-04 03:00:25 +0000"
     },
     "done": false
   },
@@ -271,6 +281,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-05-04 02:58:28 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-04 02:30:23 +0000"
@@ -288,6 +304,12 @@
       "has_the_recipe": "2025-05-04 02:30:23 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-05-04 02:58:28 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
@@ -394,6 +416,12 @@
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-05-04 02:30:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "mediterranean_forest": "2025-05-04 02:59:49 +0000"
     },
     "done": true
   },
