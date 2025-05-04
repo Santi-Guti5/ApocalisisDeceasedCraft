@@ -5081,3 +5081,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [04May2025 01:48:10.258] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 modern_love, missing knowledge for {1 modern_axe=1.0}
 [04May2025 01:48:10.258] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 69 milliseconds
 [04May2025 01:48:10.259] [Server thread/WARN] [ModernFix/]: Dedicated server took 82.342 seconds to load
+[04May2025 01:59:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04May2025 01:59:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04May2025 01:59:28.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04May2025 01:59:29.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04May2025 01:59:30.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04May2025 01:59:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04May2025 01:59:30.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[04May2025 01:59:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04May2025 01:59:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04May2025 01:59:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04May2025 01:59:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[04May2025 01:59:30.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04May2025 01:59:30.776] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[04May2025 01:59:30.777] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[04May2025 01:59:30.779] [Server thread/INFO] [configured/]: Unloading server configs...
+[04May2025 01:59:30.780] [Server thread/INFO] [configured/]: Sending config unload event for configured.developer.toml
