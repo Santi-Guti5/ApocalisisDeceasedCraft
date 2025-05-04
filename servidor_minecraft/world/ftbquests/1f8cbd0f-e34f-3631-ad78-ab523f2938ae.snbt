@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "1f8cbd0fe34f3631ad78ab523f2938ae"
+	name: "Santix15"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
