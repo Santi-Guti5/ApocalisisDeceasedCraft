@@ -61,7 +61,7 @@
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "51b6ba19-1c75-4c86-a1fc-3a22ff2b5f42",
+          "id": "5e1e2e1f-84ff-4235-8f17-f42a99c4bb22",
           "ip_hostname": "28.ip.gl.ply.gg",
           "ip_type": "both",
           "port_end": 1443,
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-05-04T01:57:50.623082Z",
+      "created_at": "2025-05-04T02:17:14.961689Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "4dd0fa13-12f8-4e67-b5c9-4fd1a191de7f",
-      "name": "unnamed",
+      "id": "ae29e65e-b194-4926-b94c-6a14410bbf51",
+      "name": "Voice Chat",
       "origin": {
         "data": {
           "agent_id": "0cc33def-6b0e-4b73-9cc0-73d5d9e4e2da",
           "agent_name": "from-key-9a57",
           "local_ip": "127.0.0.1",
-          "local_port": 15696
+          "local_port": 1442
         },
         "type": "agent"
       },
